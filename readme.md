@@ -15,6 +15,14 @@ This project implements a deep learning-based **semantic segmentation model** to
 
 ---
 
+<p align="center">
+  <img src="screenshots/confusion-matrix.png" width="700">
+</p>
+
+<p align="center">
+  Confusion matrix generated from U-Net based MRI brain tumor segmentation evaluation.
+</p>
+
 ## 🚀 Technologies Used  
 
 - **TensorFlow / Keras** – Building and training the deep learning model  
