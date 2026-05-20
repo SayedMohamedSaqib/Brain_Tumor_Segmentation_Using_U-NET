@@ -16,11 +16,27 @@ This project implements a deep learning-based **semantic segmentation model** to
 ---
 
 <p align="center">
-  <img src="screenshots/confusion-matrix.png" width="700">
+  <img src="screenshots/confusion_matrix.png" width="700">
 </p>
 
 <p align="center">
   Confusion matrix generated from U-Net based MRI brain tumor segmentation evaluation.
+</p>
+
+<p align="center">
+  <img src="screenshots/f1_curve.png" width="700">
+</p>
+
+<p align="center">
+  F1-Curve generated from U-Net based MRI brain tumor segmentation evaluation.
+</p>
+
+<p align="center">
+  <img src="screenshots/roc_curve.png" width="700">
+</p>
+
+<p align="center">
+  ROC-Curve generated from U-Net based MRI brain tumor segmentation evaluation.
 </p>
 
 ## 🚀 Technologies Used  
