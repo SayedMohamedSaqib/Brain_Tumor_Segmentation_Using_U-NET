@@ -89,12 +89,6 @@ Brain_Tumor_Segmentation_Using_U-NET/
 
 ---
 
-## 📈 Sample Results  
-
-*(You can later add sample segmentation output images here, e.g., side-by-side MRI vs Predicted Mask)*  
-
----
-
 ## 📜 License  
 
 This project is licensed under the **MIT License** – feel free to use and modify.  
