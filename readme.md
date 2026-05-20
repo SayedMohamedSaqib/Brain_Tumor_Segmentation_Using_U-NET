@@ -16,7 +16,7 @@ This project implements a deep learning-based **semantic segmentation model** to
 ---
 
 <p align="center">
-  <img src="screenshots/confusion_matrix.png" width="700">
+  <img src="confusion_matrix.png" width="700">
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ This project implements a deep learning-based **semantic segmentation model** to
 </p>
 
 <p align="center">
-  <img src="screenshots/f1_curve.png" width="700">
+  <img src="f1_curve.png" width="700">
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ This project implements a deep learning-based **semantic segmentation model** to
 </p>
 
 <p align="center">
-  <img src="screenshots/roc_curve.png" width="700">
+  <img src="roc_curve.png" width="700">
 </p>
 
 <p align="center">
